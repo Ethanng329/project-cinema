@@ -48,3 +48,7 @@ Hint: You may want to kick of the searching after at least 3 characters have bee
 ## README.md
 
 When finished, include a README.md in your repo. This should explain what the project is, how to run it and how to use it. Someone who is not familiar with the project should be able to look at it and understand what it is and what to do with it.
+
+## React-cinema, movie title search engine powered by OMDB
+
+* 
